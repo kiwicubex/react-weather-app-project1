@@ -27,6 +27,7 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  margin-left: 10px;
 }
 .Weather canvas {
   margin-top: 5px;
@@ -42,4 +43,7 @@
   top: -34px;
   margin-left: 5px;
   line-height: 1;
+}
+.float-left {
+  float: left;
 }
